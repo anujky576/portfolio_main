@@ -6,7 +6,6 @@ This project showcases my skills, projects, education, and experiences as a web 
 ## 🚀 Features
 
 - **Modern Responsive Design:** Built with HTML, CSS (custom + utility), and JavaScript for a seamless experience across devices.
-- **Animated UI:** Uses [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) for smooth, interactive animations.
 - **Custom Cursor:** Enhanced user interaction with a custom animated cursor.
 - **Project Showcase:** Dynamic project cards with modal popups for detailed views.
 - **Skills & Tech Stack:** Visual representation of my technical skills and tools.
@@ -21,7 +20,6 @@ This project showcases my skills, projects, education, and experiences as a web 
   - CSS3 ([style1.css](style1.css), [style2.css](style2.css))  
   - JavaScript ([main.js](main.js))
 - **Libraries:**  
-  - [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) for scroll animations
   - Google Fonts: Fira Code, Orbitron, Passions Conflict, Six Caps
 
 ## 📂 Project Structure
